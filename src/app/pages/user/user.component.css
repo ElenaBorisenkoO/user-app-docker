@@ -1,0 +1,20 @@
+.user-page{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.mat-card-image{
+    width: 100%;
+}
+button {
+    height: 40px;
+    width:50%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border: none;
+    box-sizing: border-box;
+    border-radius: 5px;
+    transition: 200ms;
+    outline: none;
+}
